@@ -23,8 +23,3 @@ function sayHiToGrandma (string) {
   } else {
     return "I love you, too.";
   }
-=======
-function sayHiToGrandma(string){
-  console.log('I can/t hear you!')
->>>>>>> c2bc5894a06113c08ba229a2cc19b313acbf1535
-}
